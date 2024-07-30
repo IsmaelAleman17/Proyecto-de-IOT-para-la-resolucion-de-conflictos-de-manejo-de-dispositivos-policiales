@@ -16,7 +16,7 @@ pres=""
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 # Conectamos al socket con la Raspberry Pi
-sock.connect(("192.168.0.4", 22))  # IP y puerto de la Raspberry Pi
+sock.connect(("192.168.0.3", 8080))  # IP y puerto de la Raspberry Pi
 
 while True:
     img_resp=urllib.request.urlopen(url+'cam-hi.jpg')
@@ -34,7 +34,7 @@ while True:
             print("Data: ",obj.data)
             prev=pres
             # Enviamos el dato a través del socket
-            sock.sendall(obj.data.encode())
+            sock.sendall(obj.data)
         cv2.putText(frame, str(obj.data), (50, 50), font, 2,
                     (255, 0, 0), 3)
 
