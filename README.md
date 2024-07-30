@@ -1,5 +1,6 @@
 # Proyecto de Reconocimiento de Códigos de Barras mediante ESP32-CAM y Raspberry Pi
 
+
 ## Descripción del Proyecto
 
 Este proyecto utiliza una cámara ESP32-CAM para capturar imágenes de códigos de barras y enviarlas a una Raspberry Pi, 
@@ -44,3 +45,7 @@ El proyecto también utiliza un socket para enviar los datos reconocidos desde l
 *Reconocer códigos de barras :
 *Codigos
 *Códigos de barras 2D (Código QR, Datos
+
+
+## Notas
+Recuerda que debes reemplazar las ip y puestos del codigo, como tanbien las contraseñas. 
