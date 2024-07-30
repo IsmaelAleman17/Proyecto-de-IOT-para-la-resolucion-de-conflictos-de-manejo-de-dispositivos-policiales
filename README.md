@@ -1,5 +1,9 @@
 # Proyecto de Reconocimiento de Códigos de Barras mediante ESP32-CAM y Raspberry Pi
-
+## Objetivo
+Desarrollar un prototipo de sistema de seguridad integral de 
+detección de códigos QR y visión por computadora para el 
+control de accesos, la identificación y la prevención de delitos en 
+industrias de seguridad, policiales y militares.
 
 ## Descripción del Proyecto
 
