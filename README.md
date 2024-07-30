@@ -49,3 +49,4 @@ El proyecto también utiliza un socket para enviar los datos reconocidos desde l
 
 ## Notas
 Recuerda que debes reemplazar las ip y puestos del codigo, como tanbien las contraseñas. 
+.
