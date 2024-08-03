@@ -54,3 +54,6 @@ El proyecto también utiliza un socket para enviar los datos reconocidos desde l
 ## Notas
 Recuerda que debes reemplazar las ip y puestos del codigo, como tanbien las contraseñas. 
 .
+
+
+Este proyecto fue realizado en el marco del curso IoT Essentials Developer impartido por [Codigo IoT ](https://www.codigoiot.com/) y organizado por la [Asociación Mexicana del Internet de las Cosas](https://www.asociacioniot.org/).
