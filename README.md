@@ -17,8 +17,11 @@ El proyecto también utiliza un socket para enviar los datos reconocidos desde l
 * Enviar los datos reconocidos desde la Raspberry Pi a un servidor mediante un socket.
 * Desarrollar un sistema de reconocimiento de códigos de barras rápido y preciso.
 
-## Componentes Utilizados
+## Vídeo demostración.
 
+https://youtu.be/UxHh1B-3eSA?si=837LOiSF4yWrDVZD
+
+##Componentes Utilizados
 
 * **ESP32-CAM**: una cámara de alta resolución con capacidad de conexión Wi-Fi, utilizada para capturar imágenes de códigos de barras.
 * **Raspberry Pi**: una computadora de placa única utilizada para procesar las imágenes y reconocer los códigos de barras.
