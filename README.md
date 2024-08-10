@@ -22,7 +22,7 @@ El proyecto también utiliza un socket para enviar los datos reconocidos desde l
 
 https://youtu.be/UxHh1B-3eSA?si=837LOiSF4yWrDVZD
 
-##Componentes Utilizados
+## Componentes Utilizados
 
 * **ESP32-CAM**: una cámara de alta resolución con capacidad de conexión Wi-Fi, utilizada para capturar imágenes de códigos de barras.
 * **Raspberry Pi**: una computadora de placa única utilizada para procesar las imágenes y reconocer los códigos de barras.
